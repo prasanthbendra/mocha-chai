@@ -1,0 +1,30 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "Mocha chai basic setup",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthbendra/mocha-chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Prasanth bendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasanthbendra/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/prasanthbendra/mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
